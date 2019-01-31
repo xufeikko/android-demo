@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">android_demo</string>
+    <string name='title'>hello word</string>
+    <string name="click">增加</string>
+    <string name="click_sub">减小</string>
+    <string name='chartF'>"\u2019"</string>
+    <string name='chartC'>"\u2013"</string>
+    <string-array name="seasons">
+        <item>春</item>
+        <item>夏</item>
+        <item>秋</item>
+        <item>冬</item>
+    </string-array>
+    <string-array name="menuItem">
+        <item>汉堡</item>
+        <item>薯条</item>
+        <item>可乐</item>
+        <item>玉米浓汤</item>
+    </string-array>
+    <string-array name="drinkname">
+        <item>珍珠奶茶</item>
+        <item>波霸奶茶</item>
+        <item>柠檬汁</item>
+    </string-array>
+</resources>
